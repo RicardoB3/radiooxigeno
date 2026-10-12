@@ -2,5 +2,5 @@
   "id": 1,
   "nombre": "Radio Oxígeno",
   "frecuencia": "102.1 FM",
-  "url_stream": "https://pe-p1-p-e-xm11-audio.cdn.mdstrm.com/live-audio-aw/5fab0687bcd6c2389ee9480c/playlist.m3u8?listeningSessionID=6a91d17c0cebfa1f_3883126_BaPV0o5I_cGUtcDEtcC1lLXhtMTEtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000000KZVk&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&dual_render=1&uid=pXYCbQS1ibdGJH8M3sGs2uG5akWCTOCe&sid=sFWufR7j8Yly4E41xtTRwqvhXZ64KVKK&pid=OahTqTRiObVwVxGxYuLMiKLKf1OmcGJp&ref=audioplayer.pe&ext_pb=0&CMCD=cid%3D%225fab0687bcd6c2389ee9480c%22%2Cmtp%3D13100%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22OahTqTRiObVwVxGxYuLMiKLKf1OmcGJp%22&es=pe-p1-p-e-xm11-audio.cdn.mdstrm.com&ote=1791910742101&ot=9HqgV-tzVEtY4EhAKnEDjw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fab0687bcd6c2389ee9480c&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v1.0.109&listenerId=pXYCbQS1ibdGJH8M3sGs2uG5akWCTOCe"
+  "url_stream": "https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio"
 }
